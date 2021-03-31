@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1e75fe9-0f32-4370-940d-a30d2d189be3" name="Default" comment="" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="YAGOLA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="runAPI.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daemon/runAPI.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.0">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="API.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/API.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.230769">
+              <caret line="286" column="51" selection-start-line="286" selection-start-column="51" selection-end-line="286" selection-end-column="51" />
+              <folding>
+                <marker date="1611619162231" expanded="true" signature="3460:3560" placeholder="INSERT INTO RESTAURANT..." />
+                <marker date="1611619162231" expanded="true" signature="3800:3885" placeholder="INSERT INTO RESTAURANT..." />
+                <marker date="1611619162231" expanded="true" signature="4336:4429" placeholder="INSERT INTO RESTAURANT..." />
+                <marker date="1611619162231" expanded="true" signature="4655:4733" placeholder="INSERT INTO RESTAURANT..." />
+                <marker date="1611619162231" expanded="true" signature="6105:6143" placeholder="SELECT r_seq..RESTAURANT..." />
+                <marker date="1611619162231" expanded="true" signature="6105:6162" placeholder="SELECT r_seq..RESTAURANT..." />
+                <marker date="1611619162231" expanded="true" signature="7589:7641" placeholder="INSERT INTO FOOD..." />
+                <marker date="1611619162231" expanded="true" signature="8065:8121" placeholder="SELECT r_seq..RESTAURANT..." />
+                <marker date="1611619162231" expanded="true" signature="10014:10043" placeholder="UPDATE RESTA..." />
+                <marker date="1611619162231" expanded="true" signature="10014:10044" placeholder="UPDATE RESTA..." />
+                <marker date="1611619162231" expanded="true" signature="10014:10045" placeholder="UPDATE RESTA..." />
+                <marker date="1611619162231" expanded="true" signature="10014:10054" placeholder="UPDATE RESTA..." />
+                <marker date="1611619162231" expanded="true" signature="10014:10055" placeholder="UPDATE RESTA..." />
+                <marker date="1611619162231" expanded="true" signature="10014:10089" placeholder="UPDATE RESTA..." />
+                <marker date="1611619162231" expanded="true" signature="10020:10041" placeholder="INSERT INTO RESTAURANT..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/layout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.6923077">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="55" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class_RequestAPIData.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/class_RequestAPIData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class_MySqlConnection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/class_MySqlConnection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-29.307692">
+              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbtest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/dbtest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+              <folding>
+                <marker date="1611554591480" expanded="true" signature="164:188" placeholder="SELECT * FRO..DEPARTMENT..." />
+                <marker date="1611554591480" expanded="true" signature="262:449" placeholder="INSERT INTO RESTAURANT..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6751592">
+              <caret line="155" column="22" selection-start-line="155" selection-start-column="22" selection-end-line="155" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo_main.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/images/logo_main.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/class/class_RequestAPIData.php" />
+        <option value="$PROJECT_DIR$/web/dbtest.php" />
+        <option value="$PROJECT_DIR$/class/class_MySqlConnection.php" />
+        <option value="$PROJECT_DIR$/class/config.php" />
+        <option value="$PROJECT_DIR$/daemon/runAPI.php" />
+        <option value="$PROJECT_DIR$/api/API.php" />
+        <option value="$PROJECT_DIR$/web/layout.php" />
+        <option value="$PROJECT_DIR$/web/main.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.4.5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1914" />
+    <option name="y" value="-82" />
+    <option name="width" value="1936" />
+    <option name="height" value="1107" />
+  </component>
+  <component name="ProjectId" id="1nNVSEeuGLDF2Ugus7zih1deKbC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daemon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YAGOLA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GLOBAL_ENGINE" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gillog\PhpstormProjects\YAGOLA\lib\axisj" />
+      <recent name="C:\Users\Gillog\PhpstormProjects\YAGOLA\lib\axisj\ui" />
+      <recent name="C:\Users\Gillog\PhpstormProjects\YAGOLA\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ProfessorG\PhpstormProjects\YAGOLA\web" />
+      <recent name="C:\Users\Gillog\PhpstormProjects\YAGOLA\web" />
+      <recent name="C:\Users\Gillog\PhpstormProjects\YAGOLA\class" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.YAGOLA">
+    <configuration default="false" name="AXMask.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/YAGOLA/lib/axisj/samples/AXCore/AXMask.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="YAGOLA" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.AXMask.html" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.YAGOLA" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.YAGOLA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1e75fe9-0f32-4370-940d-a30d2d189be3" name="Default" comment="" />
+      <created>1611196081386</created>
+      <option name="number" value="Default" />
+      <updated>1611196081386</updated>
+      <workItem from="1611230534616" duration="4596000" />
+      <workItem from="1611404416680" duration="8349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="YAGOLA - 2021.01.25 at 08h 09m 32s.xml">
+      <configuration name="YAGOLA" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1914" y="-82" width="1936" height="1107" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.121875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="860" y="355" key="#CLI_Interpreters" timestamp="1611231372444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="860" y="355" key="#CLI_Interpreters/0.0.2560.1400/-1200.0.1200.1880@0.0.2560.1400" timestamp="1611231372444" />
+    <state x="393" y="291" key="#PHP" timestamp="1611231860064">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="393" y="291" key="#PHP/0.0.2560.1400/-1200.0.1200.1880@0.0.2560.1400" timestamp="1611231860064" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1611231721514">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-1200.0.1200.1880@0.0.2560.1400" timestamp="1611231721514" />
+    <state x="596" y="626" key="NewPhpFileDialog" timestamp="1611413559496">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="596" y="626" key="NewPhpFileDialog/0.0.2560.1400/-1200.0.1200.1880@0.0.2560.1400" timestamp="1611413559496" />
+    <state x="1185" y="372" key="SettingsEditor" timestamp="1611231686032">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1185" y="372" key="SettingsEditor/0.0.2560.1400/-1200.0.1200.1880@0.0.2560.1400" timestamp="1611231686032" />
+    <state x="680" y="300" width="1200" height="800" key="dock-window-2" timestamp="1611230533447">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="680" y="300" width="1200" height="800" key="dock-window-2/0.0.2560.1400/-1200.0.1200.1880@0.0.2560.1400" timestamp="1611230533447" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/daemon/runAPI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1611619162231" expanded="true" signature="3460:3560" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="3800:3885" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4336:4429" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4655:4733" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6143" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6162" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="7589:7641" placeholder="INSERT INTO FOOD..." />
+            <marker date="1611619162231" expanded="true" signature="8065:8121" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10043" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10044" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10045" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10054" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10055" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10089" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10020:10041" placeholder="INSERT INTO RESTAURANT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="78" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_RequestAPIData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_MySqlConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/dbtest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <marker date="1611554591480" expanded="true" signature="164:188" placeholder="SELECT * FRO..DEPARTMENT..." />
+            <marker date="1611554591480" expanded="true" signature="262:449" placeholder="INSERT INTO RESTAURANT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/runAPI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_MySqlConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_RequestAPIData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <marker date="1611619162231" expanded="true" signature="3460:3560" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="3800:3885" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4336:4429" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4655:4733" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6143" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6162" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="7589:7641" placeholder="INSERT INTO FOOD..." />
+            <marker date="1611619162231" expanded="true" signature="8065:8121" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10043" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10044" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10045" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10054" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10055" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10089" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10020:10041" placeholder="INSERT INTO RESTAURANT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/runAPI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_MySqlConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_RequestAPIData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <marker date="1611619162231" expanded="true" signature="3460:3560" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="3800:3885" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4336:4429" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4655:4733" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6143" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6162" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="7589:7641" placeholder="INSERT INTO FOOD..." />
+            <marker date="1611619162231" expanded="true" signature="8065:8121" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10043" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10044" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10045" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10054" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10055" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10089" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10020:10041" placeholder="INSERT INTO RESTAURANT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/runAPI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_MySqlConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_RequestAPIData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <marker date="1611619162231" expanded="true" signature="3460:3560" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="3800:3885" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4336:4429" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4655:4733" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6143" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6162" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="7589:7641" placeholder="INSERT INTO FOOD..." />
+            <marker date="1611619162231" expanded="true" signature="8065:8121" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10043" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10044" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10045" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10054" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10055" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10089" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10020:10041" placeholder="INSERT INTO RESTAURANT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/runAPI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_MySqlConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_RequestAPIData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1611619162231" expanded="true" signature="3460:3560" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="3800:3885" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4336:4429" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4655:4733" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6143" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6162" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="7589:7641" placeholder="INSERT INTO FOOD..." />
+            <marker date="1611619162231" expanded="true" signature="8065:8121" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10043" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10044" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10045" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10054" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10055" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10089" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10020:10041" placeholder="INSERT INTO RESTAURANT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/curl_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.342312">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.099887766">
+          <caret line="1445" column="9" selection-start-line="1445" selection-start-column="9" selection-end-line="1445" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/dbtest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <marker date="1611554591480" expanded="true" signature="164:188" placeholder="SELECT * FRO..DEPARTMENT..." />
+            <marker date="1611554591480" expanded="true" signature="262:449" placeholder="INSERT INTO RESTAURANT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_RequestAPIData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/class_MySqlConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.307692">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/runAPI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/API.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.230769">
+          <caret line="286" column="51" selection-start-line="286" selection-start-column="51" selection-end-line="286" selection-end-column="51" />
+          <folding>
+            <marker date="1611619162231" expanded="true" signature="3460:3560" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="3800:3885" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4336:4429" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="4655:4733" placeholder="INSERT INTO RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6143" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="6105:6162" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="7589:7641" placeholder="INSERT INTO FOOD..." />
+            <marker date="1611619162231" expanded="true" signature="8065:8121" placeholder="SELECT r_seq..RESTAURANT..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10043" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10044" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10045" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10054" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10055" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10014:10089" placeholder="UPDATE RESTA..." />
+            <marker date="1611619162231" expanded="true" signature="10020:10041" placeholder="INSERT INTO RESTAURANT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6923077">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="55" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/logo_main.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6751592">
+          <caret line="155" column="22" selection-start-line="155" selection-start-column="22" selection-end-line="155" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
