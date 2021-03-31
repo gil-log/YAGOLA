@@ -2,7 +2,7 @@
 
 # YAGOLA
 
-##  기업 공급망 관리 SCM Spring Framework Project 📦
+## 😛 기업 공급망 관리 SCM Spring Framework Project 🙋‍♂️
 
 ---
 ## 📢 Project 소개
