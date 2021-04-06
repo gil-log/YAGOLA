@@ -54,7 +54,7 @@
 
 ## 🏗 Project DB ERD
 
-![](https://images.velog.io/images/gillog/post/13901e63-5304-4dc4-92c7-e44e3785bd1d/1.png)
+![]()
 
 ---
 
