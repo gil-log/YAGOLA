@@ -31,8 +31,6 @@ class MySQLConnection{
         mysqli_query($this->conn, "set session character_set_results=utf8;");
 
         mysqli_query($this->conn, "set session character_set_client=utf8;");
-
-
     }
 
     function excute($sql){
