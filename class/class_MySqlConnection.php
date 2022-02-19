@@ -16,20 +16,15 @@ class MySQLConnection{
         $this->id = $DB_INFO['id'];
         $this->pass = $DB_INFO['pass'];
         $this->db = $DB_INFO['db'];
-
         $this->conn = new mysqli(
             $this->host,
             $this->id,
             $this->pass,
             $this->db
-            );
-
+        );
         mysqli_set_charset($this->conn, "utf8");
-
         mysqli_query($this->conn, "set session character_set_connection=utf8;");
-
         mysqli_query($this->conn, "set session character_set_results=utf8;");
-
         mysqli_query($this->conn, "set session character_set_client=utf8;");
     }
 
